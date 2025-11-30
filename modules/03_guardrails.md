@@ -1,0 +1,13 @@
+## Module 3: Guardrails
+- **Missing section names**
+  - If section name missing → leave Table 1 cell blank.
+- **Extremely short sections (<50 words)**
+  - Summarize only available content, no expansion.
+- **Long paper chunking**
+  - If section > context threshold (e.g., 2,000 words):
+    - Split into chunks of ~1,000 words.
+    - Summarize each chunk.
+    - Recombine summaries sequentially.
+    - Flag overflow in Checks & Warnings.
+- **Hallucination mitigation**
+  - If section title not in provided list → do not invent; mark blank.
