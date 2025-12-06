@@ -1,7 +1,7 @@
 # Module 3: Guardrails
 
 **Change Log:**
-* **2025-12-05 (v1.1):** Enhanced hallucination mitigation with 'Strict Evidence Mode' (`evidence_mode`) and standardized warnings.
+* **2025-12-05:** Enhanced hallucination mitigation with 'Strict Evidence Mode' (`evidence_mode`) and standardized warnings.
 
 **Input:**
 * Raw section text.
