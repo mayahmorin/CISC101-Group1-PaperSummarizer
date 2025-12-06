@@ -1,7 +1,7 @@
 # Module 2: Section Loop
 
 **Change Log:**
-* **2025-12-05 (v1.1):** Added conditional logic for 'Summary Level' mode (`summary_level`) to support 'short' (1-2 sentences) and 'detailed' (paragraph + bullet points) summaries per section.
+* **2025-12-05:** Added conditional logic for 'Summary Level' mode (`summary_level`) to support 'short' (1-2 sentences) and 'detailed' (paragraph + bullet points) summaries per section.
 
 **Input:**
 * Normalized list of paper sections and their corresponding text.
